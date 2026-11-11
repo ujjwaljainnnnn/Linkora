@@ -20,17 +20,17 @@ export default function HomePage() {
 
             <div className="flex gap-4">
               <Link
-                href="/signup"
+                href="/search"
                 className="px-6 py-3 rounded-full bg-blue-600 text-white text-sm font-medium hover:bg-blue-700 transition"
               >
-                Get started free
+                Try the live demo
               </Link>
 
               <Link
-                href="/search"
+                href="https://github.com/ujjwaljainnnnn/Linkora"
                 className="px-6 py-3 rounded-full border border-slate-300 text-sm text-slate-700 hover:bg-slate-100 transition"
               >
-                Try search
+                How it works
               </Link>
             </div>
           </div>
